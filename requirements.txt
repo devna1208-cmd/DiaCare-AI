@@ -2,7 +2,7 @@ streamlit
 pandas==2.2.3
 numpy==2.4.6
 scikit-learn==1.6.1
-joblib==1.6.0
+joblib
 pypdf==6.21.4
 pytesseract==0.3.13
 Pillow==11.3.0
